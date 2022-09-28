@@ -1,0 +1,5 @@
+p=int(input("enter the amount"))
+t=float(input("enter the value"))
+r=int(input("enter the value"))
+simple_interest=(p*t*r/100)
+print("the simple interest is :",simple_interest)
